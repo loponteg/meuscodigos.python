@@ -1,0 +1,5 @@
+n1 = float(input('Digite um numero real: '))
+dobro = (n1 * 2)
+terça = (n1 / 3)
+print(f'O dobro de',n1, 'é ',dobro)
+print(f'A terça parte de',n1, 'é ',terça)
