@@ -1,0 +1,5 @@
+n1 = int(input('Digite um numero real: '))
+ant = (n1-1)
+suce = (n1+1)
+print(f'o antecessor de',n1, 'é',ant)
+print(f'o sucessor de',n1, 'é',suce) 
